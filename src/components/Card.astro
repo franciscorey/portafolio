@@ -1,0 +1,70 @@
+---
+const {image} = Astro.props;
+const {title} = Astro.props;
+const {desc} = Astro.props;
+const {url} = Astro.props;
+---
+<div class="project-card fade-in">
+    <img src={image} alt="Proyecto">
+    <h3>{title}</h3>
+    <p>{desc}</p>
+    <div class="buttons">
+        <a href={url}>Ver más</a>
+        <!-- <a href="./projects/C1/doc/">Detalles</a> -->
+    </div>
+</div>
+
+<style>
+.project-card {
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    flex: 0 0 300px;
+}
+
+@media screen and (max-width: 768px) {
+    .project-card {
+        width: 100%;
+        flex: 0 0 100%;
+    }
+}
+
+.project-card img {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.project-card h3 {
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.project-card p {
+    padding: 0 10px;
+    margin-bottom: 14px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+}
+
+.buttons a {
+    display: inline-block;
+    margin-right: 10px;
+    padding: 5px 10px;
+    background-color: #333;
+    color: #fff;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+</style>
