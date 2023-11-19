@@ -1,12 +1,21 @@
 ---
 import Layout from "../layouts/Layout.astro";
+import Card from "../components/Card.astro";
 ---
 <Layout>
 	<h1>Blog</h1>
-	<p>Acá existirán entradas de un blog.</p>
-	<ul>
-		<li><a href="/posts/post-1/">Post 1</a></li>
-		<li><a href="/posts/post-2/">Post 2</a></li>
-		<li><a href="/posts/post-3/">Post 3</a></li>
-	</ul>
+	<p class="bajada">Algunos artículos y revisiones que comparto acá, relacionados con diseño, tecnología, arte y otros temas de cultura general.</p>
+
+    
+	<div class="flex">
+        <Card title="Titulo del post" url="/posts/post-1/" image="/assets/C3.jpg"
+        />
+
+        <Card title="Titulo del post" url="/posts/post-2/" image="/assets/C4.jpg"
+        />
+
+        <Card title="Titulo del post" url="/posts/post-3/" image="/assets/300x200.jpg"
+        />
+
+    </div>
 </Layout>
