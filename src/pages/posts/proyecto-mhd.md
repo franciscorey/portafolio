@@ -1,14 +1,12 @@
 ---
 layout: ../../layouts/Layout.astro
-title: Memoria Histórica Digital
+title: Memoria Histórica DigitaI
 ---
 
-![](/assets/imagenes/mhd_1.png)
-
-# Memoria Histórica Digital
+# Memoria Histórica DigitaI
 
 
-Actualmente trabajando en Memoria Histórica Digital de la Corte Suprema en el Poder Judicial siendo parte integral de un equipo multidisciplinario que tiene la tarea de restaurar y preservar el patrimonio jurídico relevante del país.
+Actualmente trabajando en Memoria Histórica DigitaI de la Corte Suprema siendo parte integral de un equipo multidisciplinario que tiene la tarea de restaurar y preservar el patrimonio jurídico relevante del país.
 
 ## Tareas
 
@@ -36,9 +34,6 @@ Para el sitio se hizo pertinente elaborar una serie de componentes que permiten 
 
 ![](/assets/imagenes/mhd_componentes.png)
 
-El proyecto de sitio esta en desarrollo, pero permitirá albergar una cantidad considerable de material que estará disponible para la comunidad y para los distintos requerimientos dentro del Poder Judicial.
-
-![](/assets/imagenes/mhd_web.png)
 
 ![](/assets/imagenes/mhd_web2.png)
 

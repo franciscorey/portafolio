@@ -8,11 +8,11 @@ title: Memoria Histórica Digital
 # Biblioteca Corte Suprema
 
 
-Colaboraciones para eventos organizados por la Biblioteca de la Corte Suprema que depende de la Dirección de Bibliotecas y Centro Documental del Poder Judicial. Los eventos más relevantes que recopilo acá corresponden al Día del Libro y el Día del Patrimonio realizados entre 2018 y 2019.
+Colaboración para eventos organizados por la Biblioteca de la Corte Suprema. Los eventos más relevantes que recopilo acá corresponden al Día del Libro y el Día del Patrimonio realizados entre 2018 y 2019.
 
 ## Tareas
 
-Trabajo como Diseñador gráfico, apoyando con propuestas gráficas y la creación de distintos recursos expositivos como pendones, afiches, elementos de soporte y exhibición, además de elementos de difusión como tarjetas, folletos y otros.
+Colaboración en Diseño, apoyando con propuestas gráficas y la creación de distintos recursos expositivos como pendones, afiches, elementos de soporte y exhibición, además de elementos de difusión como tarjetas, folletos y otros.
 
 ![](/assets/imagenes/bcs_ddl.png)
 
